@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
         },
         {
             id: 3,
-            name: "Chihuahua",
+            name: "Chihuahua-ua",
         },
     ];
 
